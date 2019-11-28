@@ -9,5 +9,6 @@ Make a change - Added change
 Generate, amend, list and show a commit (ref: Good Practices) - git commit -m "Add initial plan steps"
 Push a commit -  git push
 Clean local fork – dismiss all changes made in local fork - git checkout -- test.txt
-Git Branches
+Git Branches - git checkout -b testBranch
+Add commit in testBranch
 Stashing
