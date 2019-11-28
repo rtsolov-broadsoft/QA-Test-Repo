@@ -6,8 +6,8 @@ Download Git client (ref: Mac OS X, Windows) - Done
 Fork and clone a repo - Forked https://github.com/lkolev-broadsoft/QA-Test-Repo and cloned on local machine
 Manage remote sources - Added RusiOrigin with git remote add RusiOrigin https://github.com/rtsolov-broadsoft/QA-Test-Repo
 Make a change - Added change
-Generate, amend, list and show a commit (ref: Good Practices) -
-Push a commit -
-Clean local fork – dismiss all changes made in local fork
+Generate, amend, list and show a commit (ref: Good Practices) - git commit -m "Add initial plan steps"
+Push a commit -  git push
+Clean local fork – dismiss all changes made in local fork - git checkout -- test.txt
 Git Branches
 Stashing
