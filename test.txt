@@ -11,4 +11,5 @@ Push a commit -  git push
 Clean local fork – dismiss all changes made in local fork - git checkout -- test.txt
 Git Branches - git checkout -b testBranch
 Add commit in testBranch
-Stashing
+Merge master with testBranch - git merge testBranch
+Stashing - git stash push
